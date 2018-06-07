@@ -1,0 +1,9 @@
+=== Ranked Problems To-Do ===
+=============================
+marathon - brute force - 2
+pythagorean07 - mathy - 4
+...
+
+========= Completed =========
+=============================
+dry run
